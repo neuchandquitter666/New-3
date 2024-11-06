@@ -312,7 +312,7 @@ namespace NewДЗ3
 
              private void EditorOptions_Click(object sender, RoutedEventArgs e)
              {
-                 // Открытие окна настроек редактора (не реализовано в этом примере)
+                 // Открытие окна настроек редактора 
              }
 
              private void TextEditor_ContextMenuOpening(object sender, ContextMenuEventArgs e)
